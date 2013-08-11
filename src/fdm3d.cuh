@@ -1,7 +1,7 @@
 /*
  * fdm3d.cuh
  *
- *  Created on: 20-08-2013
+ *  Created on: 10-08-2013
  *      Author: Andrzej Biborski
  *
  */
